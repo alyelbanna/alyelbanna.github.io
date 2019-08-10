@@ -1,2 +1,4 @@
 name: Hank Quinlan, Horrible Co
 markdown: kramdown
+
+theme: jekyll-theme-cayman
